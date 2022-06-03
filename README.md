@@ -1,8 +1,11 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Welcome!
-   - I am a talented Blockchain developer with 3+ years of experience, and have good experience in this field.
-   - I have specialized the ICO, IDO, DeFi, DEX, DAO, NFT minting website and marketplace, NFT card and casino games on Ethereum, BSC and Solana.
-   - I have completed a lot of ICO, IDO, DeFi, NFT Marketplace and Game projects using Solidity, Rust program language, Web3.js.
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 My Skype: live:.cid.693a9405fc87ce8f
+- 📫 My Email: topchallenger0204@gmail.com
+- 
 ✅ Web
 -  MERN stack, Javascript, Typescript, Vue, Next, Nuxt, PHP, Laravel, CodeIgniter, Rest API, GraphQL, Mysql, MongDB, PostgreSQL
 
