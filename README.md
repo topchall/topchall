@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on freelancer.com. :(
 - 🌱 I’m currently learning Defi/Dex
 - 👯 I’m looking to join to full work job.
-- 🤔 I’m looking for help with rent account and getting remote job
+- 🤔 I’m looking for help with rent a upwork account and getting remote job
 - 💬 My Skype: live:.cid.693a9405fc87ce8f
 - 📫 My Email: topchallenger0204@gmail.com
 
