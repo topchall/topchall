@@ -1,11 +1,11 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Welcome!
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on freelancer.com. :(
+- 🌱 I’m currently learning Defi/Dex
+- 👯 I’m looking to join to full work job.
+- 🤔 I’m looking for help with rent account and getting remote job
 - 💬 My Skype: live:.cid.693a9405fc87ce8f
 - 📫 My Email: topchallenger0204@gmail.com
-- 
+
 ✅ Web
 -  MERN stack, Javascript, Typescript, Vue, Next, Nuxt, PHP, Laravel, CodeIgniter, Rest API, GraphQL, Mysql, MongDB, PostgreSQL
 
