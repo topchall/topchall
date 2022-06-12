@@ -7,15 +7,15 @@
 - 📫 My Email: topchallenger0204@gmail.com
 
 ✅ Web
-• React/Next.js, Vue/Nuxt.js, Angular
-• MERN & MEAN Stack
-• PHP Laravel/Codeigniter, Python/Django, ASP.NET MVC/Core
+- React/Next.js, Vue/Nuxt.js, Angular
+- MERN & MEAN Stack
+- PHP Laravel/Codeigniter, Python/Django, ASP.NET MVC/Core
 
 ✅ Blockchain
-• Web3.js, Ethers.js, Web3.py
-• Ethereum, Solana, Polygon, BSC, Tron 
-• NFT Marketplace, Staking, Breeding, Crowdfunding
-• ERC20/ERC721/ERC1155 Tokens and UniSwap/PancakeSwap/SushiSwap
+- Web3.js, Ethers.js, Web3.py
+- Ethereum, Solana, Polygon, BSC, Tron 
+- NFT Marketplace, Staking, Breeding, Crowdfunding
+- ERC20/ERC721/ERC1155 Tokens and UniSwap/PancakeSwap/SushiSwap
 
 
 <div align="center">
