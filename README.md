@@ -7,14 +7,15 @@
 - 📫 My Email: topchallenger0204@gmail.com
 
 ✅ Web
--  MERN stack, Javascript, Typescript, Vue, Next, Nuxt, PHP, Laravel, CodeIgniter, Rest API, GraphQL, Mysql, MongDB, PostgreSQL
+• React/Next.js, Vue/Nuxt.js, Angular
+• MERN & MEAN Stack
+• PHP Laravel/Codeigniter, Python/Django, ASP.NET MVC/Core
 
 ✅ Blockchain
--  Ethereum, Smart Contract, Solidiity, Web3.js, ERC20, ERC721, ERC1155, Openzeppelin, Truffle, Hardhat.
--  Binance Smart Chain, Smart Contract, Solidity, Web3.js, BEP20, BEP721, BEP1155
--  Solana, Program, Rust, SPL Token, Anchor, Metaplex, Candy Machine
--  Uniswap Fork, Pancakeswap Fork, Olympus Dao Fork
--  Bigchaindb, Graphprotocol, Crypto payment Integration
+• Web3.js, Ethers.js, Web3.py
+• Ethereum, Solana, Polygon, BSC, Tron 
+• NFT Marketplace, Staking, Breeding, Crowdfunding
+• ERC20/ERC721/ERC1155 Tokens and UniSwap/PancakeSwap/SushiSwap
 
 
 <div align="center">
