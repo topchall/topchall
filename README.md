@@ -1,8 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Welcome!
 - 🔭 I’m currently working on freelancer.com. :(
 - 🌱 I’m currently learning Defi/Dex
-- 👯 I’m looking to join to full work job.
-- 🤔 I’m looking for help with rent a upwork account and getting remote job
 - 💬 My Skype: live:.cid.693a9405fc87ce8f
 - 📫 My Email: topchallenger0204@gmail.com
 
@@ -72,4 +70,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👯 I’m looking to join to full work job.
+- 🤔 I’m looking for help with rent a upwork account and getting remote job
 -->
