@@ -13,7 +13,7 @@
 
 ✅ Blockchain
 - Web3.js, Ethers.js, Web3.py
-- Ethereum, Solana, Polygon, BSC, Tron 
+- Solana, Ethereum, EVM(Polygon,BSC,Tron)
 - NFT Marketplace, Staking, Breeding, Crowdfunding
 - ERC20/ERC721/ERC1155 Tokens and UniSwap/PancakeSwap/SushiSwap
 
