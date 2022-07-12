@@ -1,15 +1,18 @@
 <!-- ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Welcome! -->
 ## Welcome!
 - 😄 I am Top Challenger.
-- 🔭 I’m currently working on freelancer.com. :(
-- 🌱 I’m currently learning Defi/Dex
-- 💬 My Skype: live:.cid.693a9405fc87ce8f
+- 🔭 I’m currently working on freelance platforms. :(
 - 📫 My Email: topchallenger0204@gmail.com
+- 💬 My Skype: live:.cid.693a9405fc87ce8f
+- 🌱 My Telegram: https://t.me/TopChall
 
 ✅ Web
-- React/Next.js, Vue/Nuxt.js, Angular
-- MERN & MEAN Stack
-- PHP Laravel/Codeigniter, Python/Django, ASP.NET MVC/Core
+- React/Next.js, Angular, Vue/Nuxt.js, 
+- MERN & MEAN Stack, Nest.js
+- PHP Laravel/Codeigniter/CakePHP/Symfony
+- Python/Django
+- ASP.NET MVC/Core
+- Ruby on Rails
 
 ✅ Blockchain
 - Web3.js, Ethers.js, Web3.py
