@@ -1,10 +1,10 @@
 <!-- ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Welcome! -->
 ## Welcome!
 - 😄 I am Top Challenger.
-- 🔭 I’m currently working on freelance platforms. :(
-- 📫 My Email: topchallenger0204@gmail.com
+- 🔭 I’m currently working on freelance platforms. 😏
+- 📧 My Email: topchallenger0204@gmail.com
 - 💬 My Skype: live:.cid.693a9405fc87ce8f
-- 🌱 My Telegram: https://t.me/TopChall
+- 📪 My Telegram: https://t.me/TopChall
 
 ✅ Web
 - React/Next.js, Angular, Vue/Nuxt.js, 
